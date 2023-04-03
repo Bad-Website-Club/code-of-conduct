@@ -1,5 +1,5 @@
 
-# Contributor Covenant Code of Conduct
+# The Bad Website Club: Code of Conduct
 
 ## Our Pledge
 
